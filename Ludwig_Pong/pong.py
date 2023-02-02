@@ -2,7 +2,7 @@ import turtle
 import winsound
 
 wn = turtle.Screen()
-wn.title('Beer Pong')
+wn.title('Ludwig Pong')
 wn.bgcolor('Black')
 wn.bgpic('bgspace.gif')
 wn.setup(width=800, height=600)
