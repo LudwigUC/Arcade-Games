@@ -1,0 +1,5 @@
+In this game you must move all the "discs" to the last position
+You should see your towers in the terminal
+And in the same place choose the next movement until you achieve the goal
+The unique restriction is that you can´t put a most big disc over other
+Enjoy de game - regards... LudwigUC
